@@ -36,7 +36,7 @@ Cada script é desenvolvido para uma variável ou produto meteorológico especí
 
 ### 🌡️ Temperatura a 2 metros
 
-O script `ecmwf_t2m_forecast.ipynb` gera mapas de previsão de temperatura do ar a 2 metros, com escala de cores personalizada e identificação da rodada e do período de previsão.
+O script `Temp2mECMWF.ipynb` gera mapas de previsão de temperatura do ar a 2 metros, com escala de cores personalizada e identificação da rodada e do período de previsão.
 
 ## 🗺️ Produto gerado
 
