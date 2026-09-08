@@ -6,7 +6,7 @@ O notebook foi desenvolvido em ambiente **Google Colab** e permite gerar mapas d
 
 ## Sobre o projeto
 
-A variável **T2M (2 metre temperature)** representa a temperatura do ar a aproximadamente 2 metros acima da superfície.
+A variável **T2M** representa a temperatura do ar a aproximadamente 2 metros acima da superfície.
 
 O script processa os dados de previsão do ECMWF e produz um mapa espacial da temperatura prevista, permitindo visualizar a distribuição das temperaturas e identificar diferentes padrões térmicos sobre a região analisada.
 
